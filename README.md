@@ -23,8 +23,8 @@ Your updated portfolio should:
 ######
 Author: Carter Venne
 
-Github repository: https://github.com/bigc10theboi/Updated-Portfolio
+Github repository: https://github.com/carterVenne/Updated-Portfolio
 
-Deployed website: https://bigc10theboi.github.io/Updated-Portfolio/
+Deployed website: https://cartervenne.github.io/Updated-Portfolio/
 
-Github profile: https://github.com/bigc10theboi
+Github profile: https://github.com/CarterVenne
