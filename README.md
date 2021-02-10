@@ -19,6 +19,7 @@ Your updated portfolio should:
 5. Have a polished, mobile-responsive user interface.
 
 # My Experience
+Updating all my various medias for this assignment was great preparation for job searching. Editing this past assignment to fit my new projects and various contact infos felt like good practice for adjusting future projects.
 
 ######
 Author: Carter Venne
