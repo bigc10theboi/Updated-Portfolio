@@ -17,7 +17,8 @@ body {
 }
 h1 {
     padding-bottom: 20px;
-    font-size: 30px;
+    font-size: 50px;
+    font-weight: bolder;
     color: black;
     line-height: 49px;
     border-bottom: 3px solid #dddddd;
@@ -80,47 +81,16 @@ footer {
   margin-bottom: 10px;
   margin-top: 10px;
 }
-#contact-form ul {
-  margin-bottom: 20px;
+.personalLinks {
+ padding: 15px;
+ text-align: center;
+  font-weight: bold;
 }
-#contact-form li {
-  margin-bottom: 10px;
-}
-  
-label,
-input[type=text],
-input[type=email],
-textarea {
-  display: block;
-  width: 100%;
-}
-  
-input[type=text],
-input[type=email],
-textarea {
-  height: 35px;
-  padding: 0 10px;
-  font-size: 14px;
-  border: 1px solid #dddddd;
-  width: 830px;
-}
-  
-textarea {
-  height: 200px;
-}
-  
-input[type=submit] {
-  padding: 10px 30px;
-  font-size: 18px;
-  color: white;
-  cursor: pointer;
-  background: rgb(35, 129, 76);
-  border: 0 none;
-  width:200px;
-  margin-left:36px;
-}
-.subButton {
-  margin-bottom: 20px;
+.emailNum {
+  padding: 15px;
+  text-align: center;
+  font-weight: bold;
+  color: rgb(82, 114, 255);
 }
 
 /* media queries */
