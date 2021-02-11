@@ -12,7 +12,7 @@ body {
     margin: 0 auto;
     clear: both;
     min-height: 100%;
-    display: grid;
+    display: table;
   
 }
 h1 {
@@ -34,8 +34,7 @@ h1 {
   text-decoration: none;
   border-left: 1px solid #efefef;
 }
-
-#myName {
+.myName {
   font-weight: bold;
   font-size: 18px;
   padding-left: 1500px;
