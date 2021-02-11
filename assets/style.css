@@ -12,7 +12,7 @@ body {
     margin: 0 auto;
     clear: both;
     min-height: 100%;
-    display: table;
+    display: grid;
   
 }
 h1 {
