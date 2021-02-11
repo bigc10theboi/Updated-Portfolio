@@ -12,8 +12,7 @@ body {
     margin: 0 auto;
     clear: both;
     min-height: 100%;
-    display: grid;
-  
+    display: grid; 
 }
 h1 {
     padding-bottom: 20px;
@@ -51,15 +50,23 @@ h1 {
   margin-right: 25px;
   margin-left: 25px;
 }
-#imgtag {
+#imgTag {
   font-size: small;
   font-style: italic;
   color: black;
 }
 
 /*portfolio styling */
-.col-md-6 {
+.col-md-4 {
   padding-bottom: 50px;
+}
+.containerP {
+  width: 100%;
+  max-width: 1260px;
+  margin: 0 auto;
+  clear: both;
+  min-height: 100%;
+  display: grid; 
 }
 
 /* footer */
