@@ -117,6 +117,9 @@ footer {
 .containerP {
   max-width: 960px;
 }
+/* #contactme {
+  max-width: 900px;
+} */
 }
 
 @media screen and (max-width: 768px) {
@@ -126,6 +129,9 @@ footer {
 .containerP {
   max-width: 740px;
 }
+/* #contactme {
+  max-width: 680px;
+} */
 }
 
 @media screen and (max-width: 480px) {
@@ -135,4 +141,7 @@ footer {
 .containerP {
   max-width: 420px;
 }
+/* #contactme {
+  max-width: 400px;
+} */
 }
