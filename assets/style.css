@@ -12,7 +12,7 @@ body {
     margin: 0 auto;
     clear: both;
     min-height: 100%;
-    display: grid; 
+    
 }
 h1 {
     padding-bottom: 20px;
@@ -54,6 +54,10 @@ h1 {
   font-size: small;
   font-style: italic;
   color: black;
+  float: left;
+}
+.indexP {
+  text-align: justify;
 }
 
 /*portfolio styling */
